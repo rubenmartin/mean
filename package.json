@@ -1,0 +1,14 @@
+{
+  "name": "MEAN",
+  "version": "0.0.3",
+  "dependences": {
+    "express": "~4.8.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "ERROR: No README data found!",
+  "main": "server.js",
+  "author": "",
+  "license": "BSD-2-Clause"
+}
