@@ -1,14 +1,23 @@
-{
-  "name": "MEAN",
-  "version": "0.0.3",
-  "dependences": {
-    "express": "~4.8.8"
-  },
-  "scripts": {
-    "start": "node server.js"
-  },
-  "description": "ERROR: No README data found!",
-  "main": "server.js",
-  "author": "",
-  "license": "BSD-2-Clause"
+{  
+   "name":"MEAN",
+   "version":"0.0.0",
+   "private":true,
+   "dependences":{  
+      "express":"~4.8.8",
+      "morgan":"~1.3.0",
+      "compression":"~1.0.11",
+      "body-parser":"~1.8.0",
+      "method-override":"~2.2.0",
+      "express-session": "~1.7.6",
+      "compress":"~0.99.0",
+      "ejs":"~1.0.0",
+      "mongoose":"~3.8.18"
+   },
+   "scripts":{  
+      "start":"node server.js"
+   },
+   "description":"aplication for developing new apps , this is tanen as prototype",
+   "main":"server.js",
+   "author":"",
+   "license":"BSD-2-Clause"
 }
